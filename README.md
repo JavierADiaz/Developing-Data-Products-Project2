@@ -1,4 +1,4 @@
-# Developing-Data-Products-Project2
+# Developing-Data-Products-Project2 for WEEK 3
 Interactive graph for Duration curve of SFC time series
 A presentation is prepared with Mackdown .
 Data for the time seres of SFC is obtain from Power of NASA https://power.larc.nasa.gov/data-access-viewer/
